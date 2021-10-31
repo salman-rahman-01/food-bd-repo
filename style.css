@@ -21,6 +21,13 @@ h3{
     border-radius: 20px;
     background-image: linear-gradient(tomato, orange);
 }
+.link-button-2{
+    text-decoration: none;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 20px;
+    background-image: linear-gradient(tomato, deeppink);
+}
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
