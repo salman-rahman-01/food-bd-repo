@@ -2,6 +2,17 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+nav{
+    background-color: black;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color: whitesmoke;
+    padding-left: 100px;
+    
+}
 .color-korbo{
     color: orange;
 }
@@ -67,6 +78,14 @@ h3{
 }
 .center{
     text-align: center;
+}
+#comment{
+    font-size: 30px;
+    color: salmon;
+}
+#comment-box{
+    padding: 100px;
+    
 }
 footer{
     text-align: center;
